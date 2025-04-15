@@ -6,7 +6,7 @@ function App() {
         <h1>React Video Streaming Test</h1>
         <video controls width="640" height="360">
           <source
-            src="http://localhost:3000/video/video_1.mkv"
+            src="https://video.chunkurl.com/video/dj-wale-gana.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
